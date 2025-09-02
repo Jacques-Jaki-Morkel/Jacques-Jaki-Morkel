@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacques-Jaki-Morkel
 - 👀 I’m interested in Web3 & Crypto
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React - Successfully able to build basic react apps
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me j.a.morkel@gmail.com
 - 😄 Pronouns: he/Unicorn 😛
